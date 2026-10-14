@@ -1,0 +1,17 @@
+====================================
+   RELATÓRIO DE ANÁLISE DE DADOS
+====================================
+
+Total de registros: 5
+Registros válidos: 2
+Registros inválidos: 3
+Percentual de registros válidos: 40.00%
+
+---------- DADOS VÁLIDOS ----------
+Nome: João Silva | E-mail: joao.silva@email.com | CPF: 123.456.789-00 | Telefone: (98) 99999-9999 | Data: 15/10/2026
+Nome: Maria Santos | E-mail: maria.santos@email.com | CPF: 987.654.321-00 | Telefone: (98) 98888-8888 | Data: 20/10/2026
+
+---------- DADOS INVÁLIDOS ----------
+Nome: Pedro Oliveira | Erro: E-mail inválido.
+Nome: Ana Costa | Erro: CPF inválido.
+Nome: Carlos Souza | Erro: Telefone inválido.
